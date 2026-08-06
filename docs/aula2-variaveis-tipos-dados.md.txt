@@ -1,0 +1,10 @@
+# Conceitos de Desenvolvimento Frontend
+
+O desenvolvimento **Frontend** refere-se à parte visual e interativa de uma aplicação web ou software, ou seja, tudo aquilo com que o usuário final interage diretamente (a interface gráfica).
+
+## Tecnologias Fundamentais do Frontend
+
+* **HTML (HyperText Markup Language):** Estrutura e organiza os elementos da página (títulos, parágrafos, botões, imagens).
+* **CSS (Cascading Style Sheets):** Responsável pelo estilo visual, layout, cores, fontes e responsividade da interface.
+* **JavaScript:** Adiciona comportamento dinâmico e interatividade à página (animações, requisições de dados, validação de formulários).
+*

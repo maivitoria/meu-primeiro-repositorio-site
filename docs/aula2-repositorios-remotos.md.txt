@@ -1,0 +1,11 @@
+# Repositórios Remotos no Git e GitHub
+
+Um **repositório remoto** é uma versão do seu projeto hospedada na nuvem ou em um servidor na rede (como o GitHub, GitLab ou Bitbucket), permitindo o armazenamento seguro do código e a colaboração entre desenvolvedores.
+
+## Principais Conceitos e Comandos
+
+* **Clone (`git clone`):** Baixa uma cópia do repositório remoto para a sua máquina local.
+* **Push (`git push`):** Envia as alterações e commits locais para o repositório remoto.
+* **Pull (`git pull`):** Baixa e atualiza o repositório local com as alterações mais recentes do repositório remoto.
+* **Sincronização:** Garante que todas as pessoas da equipe trabalhem na versão mais atualizada do projeto.
+*
