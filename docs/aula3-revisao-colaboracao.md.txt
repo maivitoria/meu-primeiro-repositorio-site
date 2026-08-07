@@ -1,0 +1,9 @@
+# Processo de Trabalho e Colaboração no GitHub
+
+O GitHub facilita o trabalho em equipa e a gestão de código através de boas práticas e ferramentas de colaboração.
+
+## Formas de Colaboração e Boas Práticas:
+- **Commits claros:** Mensagens de commit descritivas ajudam a entender o histórico de alterações.
+- **Branches (Ramos):** Permitem criar funcionalidades isoladas sem afetar o código principal (`main`).
+- **Pull Requests (PR):** Propostas de alteração de código para serem revistas por outros colaboradores antes da integração.
+- **Issues:** Registo de erros (bugs), sugestões ou tarefas a serem realizadas no projeto.
