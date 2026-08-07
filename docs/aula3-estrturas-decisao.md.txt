@@ -1,0 +1,13 @@
+# Estruturas de Decisão em Lógica de Programação
+
+As estruturas de decisão (ou condicionais) permitem que um programa tome caminhos diferentes com base em condições lógicas (Verdadeiro ou Falso).
+
+## Principais Estruturas:
+
+1. **`se` (If):** Executa um bloco de código se a condição for verdadeira.
+2. **`senão se` (Else If):** Testada quando a condição anterior for falsa.
+3. **`senão` (Else):** Executada quando nenhuma das condições anteriores for atendida.
+
+## Exemplo Prático:
+- **Condição:** `SE nota >= 7` $\rightarrow$ Aprovado.
+- **Caso contrário:** `SENÃO` $\rightarrow$ Reprovado.
